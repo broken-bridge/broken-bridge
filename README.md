@@ -14,10 +14,6 @@
   </a>
 </p>
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
-
-- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/Discord-Vaultary%230001-Black"/></a>
-
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
 
 <p align="left">
