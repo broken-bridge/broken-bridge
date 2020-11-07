@@ -1,8 +1,4 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-<p align="center">
-  <a href="url"><img src="https://github.com/VaultGitos/VaultGitos/blob/main/logo.gif" height="100" width="100" style="border-radius:50%"></a>
-</p>
-
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
