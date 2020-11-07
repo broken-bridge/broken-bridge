@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <p align="left">
   <a title="Lua" href="https://forthebadge.com/images/badges/built-by-developers.svg">
-    <img width="65" src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="Made by Developer">
+    <img width="Auto" src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="Made by Developer">
   </a>
 </p>
 
