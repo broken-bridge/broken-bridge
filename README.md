@@ -2,16 +2,16 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <p align="center">
   <a href="https://github.com/VaultGitos/VaultGitos">
-    <img src="logo.gif" alt="Logo" width="80" height="80">
+    <img src="logo.gif" alt="Logo" width="100" height="100">
   </a>
 </p>
 
 <p align="center">
   <a title="Lua" href="https://www.lua.org/pil/1.html">
-    <img width="50" src="https://github.com/file-icons/icons/blob/master/svg/Lua.svg" alt="Lua Logo">
+    <img width="65" src="https://github.com/file-icons/icons/blob/master/svg/Lua.svg" alt="Lua Logo">
   </a>
   <a title="C#" href="https://www.w3schools.com/cs/default.asp">
-    <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="Csharp Logo">
+    <img width="65" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="Csharp Logo">
   </a>
 </p>
 
