@@ -4,12 +4,6 @@
   <a href="https://github.com/VaultGitos/VaultGitos">
     <img src="logo.gif" alt="Logo" width="80" height="80">
   </a>
-
-  <h3 align="center">Vaultary's Github</h3>
-
-  <p align="center">
-    Hi, Welcome to my bio ^^
-  </p>
 </p>
 
 <p align="center">
