@@ -13,7 +13,7 @@
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
 
-<p align="center">
+<p align="left">
   <a title="Lua" href="https://www.lua.org/pil/1.html">
     <img width="65" src="https://github.com/file-icons/icons/blob/master/svg/Lua.svg" alt="Lua Logo">
   </a>
