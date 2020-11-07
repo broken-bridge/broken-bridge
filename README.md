@@ -6,7 +6,6 @@
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
 
 - 🌱 I’m currently learning Lua
-
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
 
 - <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/Discord-Vaultary%230001-Black"/></a>
