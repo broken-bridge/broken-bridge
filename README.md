@@ -10,3 +10,11 @@
     <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="Csharp Logo">
   </a>
 </p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xDynamic&show_icons=true&theme=synthwave">
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xDynamic&theme=dracula&show_icons=true">
+</p>
