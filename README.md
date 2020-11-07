@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xDynamic&show_icons=true&theme=synthwave">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VaultGitos&show_icons=true&theme=synthwave">
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xDynamic&theme=dracula&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaultGitos&theme=dracula&show_icons=true">
 </p>
