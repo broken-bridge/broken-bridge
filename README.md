@@ -1,3 +1,4 @@
+
 <p align="center">
   <a title="Lua" href="https://www.lua.org/pil/1.html">
     <img width="50" src="https://github.com/file-icons/icons/blob/master/svg/Lua.svg" alt="Lua Logo">
@@ -10,3 +11,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaultGitos&theme=dracula&show_icons=true">
 </p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VaultGitos&repo=github-readme-stats" />
+</a>
