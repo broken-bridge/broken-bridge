@@ -18,6 +18,4 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaultGitos&theme=dracula&show_icons=true">
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api//github-readme-stats/?username=VaultGitos&theme=dracula&show_icons=true">
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaultGitos&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/VaultGitos/github-readme-stats)
