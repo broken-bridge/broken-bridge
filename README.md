@@ -4,6 +4,10 @@
   <a href="url"><img src="https://github.com/VaultGitos/VaultGitos/blob/main/logo.gif" height="100" width="100" style="border-radius:50%"></a>
 </p>
 
+<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
+
+- 🌱 I’m currently learning Lua
+
 <p align="center">
   <a title="Lua" href="https://www.lua.org/pil/1.html">
     <img width="65" src="https://github.com/file-icons/icons/blob/master/svg/Lua.svg" alt="Lua Logo">
