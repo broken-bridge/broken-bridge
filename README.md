@@ -1,4 +1,10 @@
-[![Contributors][contributors-shield]][https://github.com/VaultGitos]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <p align="center">
   <a title="Lua" href="https://www.lua.org/pil/1.html">
     <img width="50" src="https://github.com/file-icons/icons/blob/master/svg/Lua.svg" alt="Lua Logo">
