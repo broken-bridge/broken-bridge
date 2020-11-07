@@ -5,6 +5,7 @@
     <img width="Auto" src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="Made by Developer">
   </a>
 </p>
+# Vaultary
 <p align="left">
   <a title="Christmas 2020" href="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif">
     <img width="30" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" alt="Christmas">
