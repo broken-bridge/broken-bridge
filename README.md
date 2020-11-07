@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <p align="center">
   <a href="https://github.com/VaultGitos/VaultGitos">
-    <img src="logo.gif" alt="Logo" width="100" height="100">
+    <img src="logo.gif" alt="Logo" width="100" height="100" style="border-radius:50%">>
   </a>
 </p>
 
