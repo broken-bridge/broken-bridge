@@ -1,6 +1,4 @@
-<p align="center">
 # Vaultary
-</p>
 <p align="center">
   <a href="https://github.com/VaultGitos/VaultGitos">
     <img src="logo.gif" alt="Logo" width="80" height="80">
