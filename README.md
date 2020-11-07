@@ -9,7 +9,7 @@
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
 
-- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/instagram%20@teen_developer-DD2476?style=social&logo=&logoColor=white"/></a>
+- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/Discord-Vaultary%230001-Black"/></a>
 
 <p align="center">
   <a title="Lua" href="https://www.lua.org/pil/1.html">
