@@ -1,4 +1,3 @@
-<h2> Hey there! I'm Vaultary. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <p align="center">
   <a href="url"><img src="https://github.com/VaultGitos/VaultGitos/blob/main/logo.gif" height="100" width="100" style="border-radius:50%"></a>
@@ -7,6 +6,10 @@
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
 
 - 🌱 I’m currently learning Lua
+
+<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
+
+- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/instagram%20@teen_developer-DD2476?style=social&logo=&logoColor=white"/></a>
 
 <p align="center">
   <a title="Lua" href="https://www.lua.org/pil/1.html">
