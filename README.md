@@ -7,7 +7,7 @@
 </p>
 <p align="left">
   <a title="Christmas 2020" href="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif">
-    <img width="Auto" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" alt="Christmas">
+    <img width="30" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" alt="Christmas">
   </a>
 </p>
 
