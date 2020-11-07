@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Vaultary. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <p align="center">
-  <a href="url"><img src="https://github.com/VaultGitos/VaultGitos/blob/main/logo.gif" height="auto" width="200" style="border-radius:50%"></a>
+  <a href="url"><img src="https://github.com/VaultGitos/VaultGitos/blob/main/logo.gif" height="100" width="100" style="border-radius:50%"></a>
 </p>
 
 <p align="center">
