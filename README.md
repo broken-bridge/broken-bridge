@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://api.alexflipnote.dev/challenge?text=Credit+Chino+Bio+Style&icon=1">
+<img src="https://api.alexflipnote.dev/challenge?text=Vaultary#0001&icon=4">
+</p>
+<p align="center">
   <a title="Lua" href="https://www.lua.org/pil/1.html">
     <img width="35" src="https://github.com/file-icons/icons/blob/master/svg/Lua.svg" alt="Lua Logo">
   </a>
