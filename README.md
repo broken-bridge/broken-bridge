@@ -20,9 +20,6 @@
   <a title="Lua" href="https://www.lua.org/pil/1.html">
     <img width="65" src="https://github.com/file-icons/icons/blob/master/svg/Lua.svg" alt="Lua Logo">
   </a>
-  <a title="C#" href="https://www.w3schools.com/cs/default.asp">
-    <img width="65" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="Csharp Logo">
-  </a>
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=VaultGitos&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="VaultGitos's Github Stats">
