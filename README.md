@@ -1,18 +1,8 @@
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-<p align="left">
-  <a title="Made by developer" href="https://forthebadge.com/images/badges/built-by-developers.svg">
-    <img width="Auto" src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="Made by Developer">
-  </a>
-</p>
 <p align="left">
   <a title="Vaultary" href="https://github.com/VaultGitos/VaultGitos/blob/main/logo.gif">
     <img width="30" src="https://github.com/VaultGitos/VaultGitos/blob/main/logo.gif" alt="Vaultary">
   </a>
-  <a title="Christmas 2020" href="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif">
-    <img width="30" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" alt="Christmas">
-  </a>
-</p>
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
 
