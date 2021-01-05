@@ -1,9 +1,3 @@
-
-<p align="left">
-  <a title="Vaultary" href="https://github.com/VaultGitos/VaultGitos/blob/main/logo.gif">
-    <img width="30" src="https://github.com/VaultGitos/VaultGitos/blob/main/logo.gif" alt="Vaultary">
-  </a>
-
 <p align="left">
   <a title="Lua" href="https://www.lua.org/pil/1.html">
     <img width="65" src="https://github.com/file-icons/icons/blob/master/svg/Lua.svg" alt="Lua Logo">
