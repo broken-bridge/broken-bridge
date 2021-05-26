@@ -1,2 +1,2 @@
 <div style="text-align:center">
-  <img src="https://github.com/VaultGitos/VaultGitos/raw/main/tq_lololoololloo6.png" /></div>
+  <img src="https://cdn.discordapp.com/attachments/760483760784277534/842982672141647882/unknown.png" /></div>
