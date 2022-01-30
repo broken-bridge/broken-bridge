@@ -6,6 +6,6 @@
 </p>
 <h1 align = "center">Vault#1337</h1>
 <p align = "center">
-  <img src="https://www.lua.org/images/luaa.gif"   width = "50"></img>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png"   width = "50"></img>
 </p>
-<h3 align = "center">I'm still learning lua.</h1>
+<h3 align = "center">I suck at making thing.</h1>
