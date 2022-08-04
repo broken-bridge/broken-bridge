@@ -1,4 +1,4 @@
-<h3 align = "center">## Hi, I'm Vault
+<h3 align = "center">Hi, I'm Vault
 <h3 align = "center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png"   width = "50"></img>
 <h3 align = "center"><img src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg"   width = "50"></img>
   
