@@ -1,7 +1,5 @@
 <h2 align="center">
 <p align="center">
-  
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=macosint&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed)](https://github.com/macosint)
 
 <h2 align="center">Programming Languages, I mainly use</h2>
 <p align="center">
